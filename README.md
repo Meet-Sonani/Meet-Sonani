@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Meet Sonani 👋</h1>
 
----
-
 ## 👨‍💻 About Me
 
 - 🔬 **Data Scientist** passionate about leveraging AI to solve real-world problems
