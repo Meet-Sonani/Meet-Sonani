@@ -20,7 +20,7 @@ A unique approach combining Long Short-Term Memory (LSTM) networks and Graph Neu
 - 📉 Predicts stock movement by modeling inter-stock relationships and historical trends
 - 🏆 Outperformed standard LSTM and GNN baselines on benchmark datasets
 
-[Check out the project here!](#) <!-- Replace # with your project link -->
+[Check out the project here!](https://github.com/Meet-Sonani/stock-prediction-lstm-gnn)
 
 ---
 
