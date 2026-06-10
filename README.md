@@ -45,7 +45,6 @@ A unique approach combining Long Short-Term Memory (LSTM) networks and Graph Neu
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/meet-sonani)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/meet_sonani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=github)](https://github.com/Meet-Sonani)
 ---
 
